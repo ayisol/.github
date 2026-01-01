@@ -4,7 +4,7 @@ Ayisol Dev Lab builds modern software solutions with a focus on web & mobile dev
 
 ## What we do
 - Web platforms & developer tooling
-- Backend & distributed systems
+- Product Engineering & Architecture
 - Workflow automation & AI business integration
 
 ## Get in touch
